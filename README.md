@@ -3,10 +3,10 @@ This project is about the comparison of countries happiness index to alcohol con
 
 ## Dataset
 
-**Source** Dataset is from Kaggle
-**File** `my_data.csv`
-**Rows** 500
-**Key Columns** age, income, target
+- **Source** Dataset is from Kaggle
+- **File** `my_data.csv`
+- **Rows** 500
+- **Key Columns** age, income, target
 
 ## How to Run
 
